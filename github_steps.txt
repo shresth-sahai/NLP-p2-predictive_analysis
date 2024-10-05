@@ -2,5 +2,5 @@ cd path/to/your/project
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/Shubhankitsirvaiya/PredictiveMaintian
+git remote add origin https://github.com/shresth-sahai/PredictiveMaintian
 git push -u origin master
